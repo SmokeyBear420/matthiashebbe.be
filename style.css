@@ -1,0 +1,135 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    color: #D4A539;
+    text-align: center;
+    background-color: #001E21;
+    margin: 0px 50px 10px 50px;
+    padding: 0px 50px 25px 50px;
+    border: 1px;
+}
+
+.intro {
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    padding: 25px 25px;
+   
+}
+
+a {
+    color: #7b1049;
+    text-align: center;
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+}
+
+a:visited {
+    color:#997729;
+}
+
+a:hover, a:active {
+    color: #FFC745
+}
+
+.iconsource {
+    font-size: 0.8em;
+    
+}
+
+.introlist {
+    list-style-type: none;
+    display: block;
+    margin: 20px 20px;
+    padding: 10px 150px;
+    overflow: hidden;
+    background-color: #001E21;
+    
+}
+
+.navlist {
+    float: right;
+    display: block;
+    list-style-type: none;
+    background-color:#7b1049;
+    border:#FFC745;
+    border-style: solid;
+    border-radius: 12px;
+    padding: 3px 4px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    margin: 4px 4px;
+
+}
+
+.maingoals, .futuregoals, .sparetime {
+    list-style-type: none; 
+    border-color: #D4A539;
+    border-width: 2px;
+    border-radius: 20%;
+    padding: 5px;
+
+
+
+   
+
+}
+
+.headlogo {
+    object-fit: contain;
+    text-align: center;
+    display: block;
+    background-color: #D4A539;
+    margin: auto;
+    padding: 7px 20px;
+    border-radius: 30px;
+    border-color: #001E21;
+    border-style: dashed;
+    border-width: 7px;
+
+}
+
+
+li:hover {
+    background-color: #001E21;
+}
+
+li a {
+    display:flex;
+    text-align: center;
+    padding: 6px;
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+    
+}
+
+header{
+    margin: 15px;
+    background-color: #001E21;
+    font-family: 'Courier New', Courier, monospace;
+    color: #D4A539;
+    
+    }
+
+h1{ 
+    font-size: 3em;
+    object-fit: contain;
+    text-align: center;
+    display: block;
+    background-color: #001E21;
+    margin: auto;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 2px;
+       
+}
+
+.headquote, .hobbies {
+    text-align: center;
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+    font-size: 1.4em;
+}
+
